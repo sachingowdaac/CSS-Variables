@@ -1,2 +1,1 @@
-# CSS-Variables
-Scoped CSS Variable and JavaScript
+Update CSS Variable with JS like Spacing, Blur, Base Color
